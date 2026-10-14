@@ -54,7 +54,7 @@ The workflow separates five independent layers of decision-making:
 
 **Signal → Qualification → Prioritization → Segmentation → Action**
 
-![Operating Model](assets/operating-model.svg)
+![Operating Model](assets/GTM_Account_Prioritization_Engine.png)
 
 Rather than producing a single opaque score, each layer has a distinct responsibility, making the system easier to understand, maintain, and improve.
 
@@ -74,7 +74,7 @@ Separating qualification from prioritization transformed the project from a scor
 
 The final framework summarizes what the project validated, where it succeeded, and the key limitation that emerged during implementation.
 
-![Operating Model](assets/GTM_Account_Prioritization_Engine.png)
+![What the Build Proved](assets/What%20the%20Build%20Proved.png)
 
 The project demonstrated that:
 
