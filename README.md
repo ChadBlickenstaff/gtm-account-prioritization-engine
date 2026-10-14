@@ -74,7 +74,7 @@ Separating qualification from prioritization transformed the project from a scor
 
 The final framework summarizes what the project validated, where it succeeded, and the key limitation that emerged during implementation.
 
-![What the Build Proved](assets/what-the-build-proved.svg)
+![Operating Model](assets/GTM_Account_Prioritization_Engine.png)
 
 The project demonstrated that:
 
